@@ -1,0 +1,249 @@
+{"level":"INFO","message":"[1:11:49.857 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:11:50.075 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[1:11:50.079 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:21:15.414 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:21:15.611 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[5:21:15.612 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:34:25.574 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:34:25.633 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[5:34:25.635 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:41:28.631 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:41:28.691 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[5:41:28.693 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:54:14.894 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:54:14.941 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[5:54:14.949 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:57:41.774 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:57:41.832 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[5:57:41.836 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:02:20.187 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:02:20.235 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[6:02:20.237 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:18:19.706 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:18:19.767 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[6:18:19.770 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:19:52.771 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:19:52.836 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[6:19:52.838 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:20:20.297 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:20:20.350 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[6:20:20.353 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:21:03.805 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:21:03.898 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:21:03.899 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:24:15.869 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:24:15.924 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:24:15.929 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:32:05.073 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:32:05.106 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:32:05.109 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:32:29.794 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:32:29.846 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:32:29.849 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:33:18.419 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:33:18.505 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:33:18.510 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:33:56.469 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:33:56.510 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:33:56.513 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:39:11.976 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:39:12.028 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:39:12.031 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:47:40.107 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:47:40.150 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:47:40.152 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:51:17.672 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:51:17.703 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:51:17.704 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:55:38.907 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:55:38.958 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[2:55:38.963 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:08:03.842 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:08:03.930 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:08:03.932 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:19:54.389 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:19:54.414 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:19:54.415 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:22:38.961 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:22:39.002 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:22:39.007 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:26:18.126 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:26:18.172 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:26:18.175 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:30:30.252 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:30:30.299 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:30:30.301 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:39:35.775 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:39:35.825 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:39:35.826 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:45:14.292 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:45:14.328 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:45:14.330 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:47:51.593 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:47:51.622 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:47:51.623 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:48:32.850 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:48:32.897 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:48:32.902 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:51:36.099 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:51:36.142 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:51:36.144 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:55:07.033 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:55:07.066 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:55:07.067 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:55:48.874 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:55:48.912 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[4:55:48.917 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:02:35.331 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:02:35.447 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:02:35.448 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:36:42.792 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:36:42.885 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:36:42.886 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:41:29.331 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:41:29.351 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:41:29.352 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"DEBUG","message":"[3:41:30.461 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:41:31.961 PM]: Contacting SF: /session/v1/login-request?requestId=b7ef0a7f-44c4-44ee-9e15-6250b4d69398&warehouse=COMPUTE_WH, (1/7)"}
+{"level":"TRACE","message":"[3:41:31.962 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:41:31.963 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=b7ef0a7f-44c4-44ee-9e15-6250b4d69398&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:41:32.334 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:41:32.336 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:41:36.438 PM]: Contacting SF: /session/v1/login-request?requestId=e9364751-2303-4870-b1b2-be2efb66d2c8&warehouse=COMPUTE_WH, (2/7)"}
+{"level":"TRACE","message":"[3:41:36.440 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:41:36.441 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=e9364751-2303-4870-b1b2-be2efb66d2c8&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:41:36.681 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:41:36.683 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:41:43.570 PM]: Contacting SF: /session/v1/login-request?requestId=e29c7a44-c4cc-4191-a7df-2a267ac414b7&warehouse=COMPUTE_WH, (3/7)"}
+{"level":"TRACE","message":"[3:41:43.571 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:41:43.572 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=e29c7a44-c4cc-4191-a7df-2a267ac414b7&warehouse=COMPUTE_WH&clientStartTime=1714473689354&retryCount=2"}
+{"level":"DEBUG","message":"[3:41:43.972 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:41:43.973 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:41:53.804 PM]: Contacting SF: /session/v1/login-request?requestId=13570e8a-81f1-4a80-9dfd-5f3c63b7fa58&warehouse=COMPUTE_WH, (4/7)"}
+{"level":"TRACE","message":"[3:41:53.807 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:41:53.808 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=13570e8a-81f1-4a80-9dfd-5f3c63b7fa58&warehouse=COMPUTE_WH&clientStartTime=1714473689354&retryCount=3"}
+{"level":"DEBUG","message":"[3:41:56.156 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:41:56.157 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:42:07.154 PM]: Contacting SF: /session/v1/login-request?requestId=fee6d94f-d27e-42c7-ae02-feed450b7212&warehouse=COMPUTE_WH, (5/7)"}
+{"level":"TRACE","message":"[3:42:07.156 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:42:07.156 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=fee6d94f-d27e-42c7-ae02-feed450b7212&warehouse=COMPUTE_WH&clientStartTime=1714473689354&retryCount=4"}
+{"level":"DEBUG","message":"[3:42:07.545 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:42:07.547 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:42:30.792 PM]: Contacting SF: /session/v1/login-request?requestId=6b1d2eac-42a8-4f20-b057-dd9acc1eb6b0&warehouse=COMPUTE_WH, (6/7)"}
+{"level":"TRACE","message":"[3:42:30.794 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:42:30.795 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=6b1d2eac-42a8-4f20-b057-dd9acc1eb6b0&warehouse=COMPUTE_WH&clientStartTime=1714473689354&retryCount=5"}
+{"level":"DEBUG","message":"[3:42:31.630 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:42:31.631 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"INFO","message":"[3:42:48.691 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:42:48.711 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:42:48.712 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"DEBUG","message":"[3:42:52.940 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:42:54.224 PM]: Contacting SF: /session/v1/login-request?requestId=c1581fd3-16e2-46ae-b2c2-2ffcd99d5eba&warehouse=COMPUTE_WH, (1/7)"}
+{"level":"TRACE","message":"[3:42:54.226 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:42:54.227 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=c1581fd3-16e2-46ae-b2c2-2ffcd99d5eba&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:42:54.641 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:42:54.643 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:42:56.089 PM]: Contacting SF: /session/v1/login-request?requestId=330a19a2-dd7e-47aa-9d07-7ce24fd064e7&warehouse=COMPUTE_WH, (2/7)"}
+{"level":"TRACE","message":"[3:42:56.091 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:42:56.092 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=330a19a2-dd7e-47aa-9d07-7ce24fd064e7&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:42:56.315 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:42:56.317 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:43:01.496 PM]: Contacting SF: /session/v1/login-request?requestId=2948e94b-bb62-4ccf-9b69-7eda017e90af&warehouse=COMPUTE_WH, (3/7)"}
+{"level":"TRACE","message":"[3:43:01.499 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:43:01.500 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=2948e94b-bb62-4ccf-9b69-7eda017e90af&warehouse=COMPUTE_WH&clientStartTime=1714473768713&retryCount=2"}
+{"level":"DEBUG","message":"[3:43:01.735 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:43:01.737 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"INFO","message":"[3:43:10.738 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:43:10.759 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:43:10.760 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:50:48.105 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:50:48.144 PM]: No client config file found in default directories"}
+{"level":"INFO","message":"[3:50:48.145 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"DEBUG","message":"[3:50:49.306 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:50:50.950 PM]: Contacting SF: /session/v1/login-request?requestId=859c7733-0565-4ff4-a2c2-925de3c62a26&warehouse=COMPUTE_WH, (1/7)"}
+{"level":"TRACE","message":"[3:50:50.951 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:50:50.951 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=859c7733-0565-4ff4-a2c2-925de3c62a26&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:50:51.355 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:50:51.356 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:50:54.588 PM]: Contacting SF: /session/v1/login-request?requestId=ad13b6d9-8842-421d-a5d8-f4bfcff6872b&warehouse=COMPUTE_WH, (2/7)"}
+{"level":"TRACE","message":"[3:50:54.590 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:50:54.590 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=ad13b6d9-8842-421d-a5d8-f4bfcff6872b&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[3:50:54.814 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:50:54.816 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:50:58.130 PM]: Contacting SF: /session/v1/login-request?requestId=2f0218ea-3e24-4042-a033-130061df53a3&warehouse=COMPUTE_WH, (3/7)"}
+{"level":"TRACE","message":"[3:50:58.132 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:50:58.133 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=2f0218ea-3e24-4042-a033-130061df53a3&warehouse=COMPUTE_WH&clientStartTime=1714474248147&retryCount=2"}
+{"level":"DEBUG","message":"[3:50:58.367 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:50:58.368 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:51:11.330 PM]: Contacting SF: /session/v1/login-request?requestId=56a4c2a2-e0cb-4334-93cc-c180132d120d&warehouse=COMPUTE_WH, (4/7)"}
+{"level":"TRACE","message":"[3:51:11.332 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:51:11.332 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=56a4c2a2-e0cb-4334-93cc-c180132d120d&warehouse=COMPUTE_WH&clientStartTime=1714474248147&retryCount=3"}
+{"level":"DEBUG","message":"[3:51:11.709 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:51:11.710 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:51:28.679 PM]: Contacting SF: /session/v1/login-request?requestId=a1d55202-3346-4739-bdd2-0dfca19b7fd4&warehouse=COMPUTE_WH, (5/7)"}
+{"level":"TRACE","message":"[3:51:28.681 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:51:28.681 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=a1d55202-3346-4739-bdd2-0dfca19b7fd4&warehouse=COMPUTE_WH&clientStartTime=1714474248147&retryCount=4"}
+{"level":"DEBUG","message":"[3:51:29.060 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:51:29.061 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[3:52:23.209 PM]: Contacting SF: /session/v1/login-request?requestId=6a157104-eb28-475e-b04d-bb084d451186&warehouse=COMPUTE_WH, (6/7)"}
+{"level":"TRACE","message":"[3:52:23.211 PM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[3:52:23.212 PM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=6a157104-eb28-475e-b04d-bb084d451186&warehouse=COMPUTE_WH&clientStartTime=1714474248147&retryCount=5"}
+{"level":"DEBUG","message":"[3:52:23.592 PM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[3:52:23.593 PM]: Encountered an error when sending the request. Details: {}"}
+{"level":"INFO","message":"[10:44:01.952 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[10:44:02.192 AM]: No client config file found in default directories"}
+{"level":"INFO","message":"[10:44:02.194 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"DEBUG","message":"[10:44:06.221 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:44:07.651 AM]: Contacting SF: /session/v1/login-request?requestId=17341e29-cf22-414a-a044-936fb54430c4&warehouse=COMPUTE_WH, (1/7)"}
+{"level":"TRACE","message":"[10:44:07.655 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:44:07.657 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=17341e29-cf22-414a-a044-936fb54430c4&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[10:44:07.831 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:44:07.834 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:44:11.194 AM]: Contacting SF: /session/v1/login-request?requestId=a076290e-e062-4cb2-acc4-b978c5a57dda&warehouse=COMPUTE_WH, (2/7)"}
+{"level":"TRACE","message":"[10:44:11.198 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:44:11.199 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=a076290e-e062-4cb2-acc4-b978c5a57dda&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[10:44:11.540 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:44:11.543 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:44:16.098 AM]: Contacting SF: /session/v1/login-request?requestId=d12be46e-6b4b-4735-b6c7-d7ae24efb084&warehouse=COMPUTE_WH, (3/7)"}
+{"level":"TRACE","message":"[10:44:16.101 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:44:16.102 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=d12be46e-6b4b-4735-b6c7-d7ae24efb084&warehouse=COMPUTE_WH&clientStartTime=1715406242198&retryCount=2"}
+{"level":"DEBUG","message":"[10:44:16.421 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:44:16.424 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:44:29.021 AM]: Contacting SF: /session/v1/login-request?requestId=b0e68fac-1248-43e7-a736-723faf64d7c8&warehouse=COMPUTE_WH, (4/7)"}
+{"level":"TRACE","message":"[10:44:29.024 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:44:29.026 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=b0e68fac-1248-43e7-a736-723faf64d7c8&warehouse=COMPUTE_WH&clientStartTime=1715406242198&retryCount=3"}
+{"level":"DEBUG","message":"[10:44:29.359 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:44:29.361 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:44:53.017 AM]: Contacting SF: /session/v1/login-request?requestId=39193771-d1d3-42df-882d-378f8ded464d&warehouse=COMPUTE_WH, (5/7)"}
+{"level":"TRACE","message":"[10:44:53.020 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:44:53.021 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=39193771-d1d3-42df-882d-378f8ded464d&warehouse=COMPUTE_WH&clientStartTime=1715406242198&retryCount=4"}
+{"level":"DEBUG","message":"[10:44:53.373 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:44:53.375 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[10:45:28.042 AM]: Contacting SF: /session/v1/login-request?requestId=3b493675-34f9-45a1-9c51-01693368b1a7&warehouse=COMPUTE_WH, (6/7)"}
+{"level":"TRACE","message":"[10:45:28.045 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[10:45:28.046 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=3b493675-34f9-45a1-9c51-01693368b1a7&warehouse=COMPUTE_WH&clientStartTime=1715406242198&retryCount=5"}
+{"level":"DEBUG","message":"[10:45:28.468 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[10:45:28.469 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"INFO","message":"[11:40:12.801 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:40:12.859 AM]: No client config file found in default directories"}
+{"level":"INFO","message":"[11:40:12.864 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"DEBUG","message":"[11:40:13.990 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[11:40:15.482 AM]: Contacting SF: /session/v1/login-request?requestId=ff9c3ead-5b07-4ebc-89a4-216f8887a27a&warehouse=COMPUTE_WH, (1/7)"}
+{"level":"TRACE","message":"[11:40:15.485 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[11:40:15.487 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=ff9c3ead-5b07-4ebc-89a4-216f8887a27a&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[11:40:15.680 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[11:40:15.683 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[11:40:18.488 AM]: Contacting SF: /session/v1/login-request?requestId=e16c3080-9f91-4fcd-b383-c72d02fe2150&warehouse=COMPUTE_WH, (2/7)"}
+{"level":"TRACE","message":"[11:40:18.491 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[11:40:18.494 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=e16c3080-9f91-4fcd-b383-c72d02fe2150&warehouse=COMPUTE_WH"}
+{"level":"DEBUG","message":"[11:40:18.681 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[11:40:18.683 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[11:40:22.222 AM]: Contacting SF: /session/v1/login-request?requestId=129c6ccf-0829-46dc-a7ac-3f4c31e5919d&warehouse=COMPUTE_WH, (3/7)"}
+{"level":"TRACE","message":"[11:40:22.225 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[11:40:22.226 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=129c6ccf-0829-46dc-a7ac-3f4c31e5919d&warehouse=COMPUTE_WH&clientStartTime=1715409612867&retryCount=2"}
+{"level":"DEBUG","message":"[11:40:22.419 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}
+{"level":"DEBUG","message":"[11:40:22.421 AM]: Encountered an error when sending the request. Details: {}"}
+{"level":"DEBUG","message":"[11:40:39.763 AM]: Contacting SF: /session/v1/login-request?requestId=e1569a2e-831a-42ec-a856-0e4a4c176da7&warehouse=COMPUTE_WH, (4/7)"}
+{"level":"TRACE","message":"[11:40:39.766 AM]: Get agent with id: https://tbddxdl-mv90998.snowflakecomputing.com-keepAlive from cache"}
+{"level":"TRACE","message":"[11:40:39.768 AM]: CALL POST with timeout 90000: https://tbddxdl-mv90998.snowflakecomputing.com/session/v1/login-request?requestId=e1569a2e-831a-42ec-a856-0e4a4c176da7&warehouse=COMPUTE_WH&clientStartTime=1715409612867&retryCount=3"}
+{"level":"DEBUG","message":"[11:40:40.000 AM]: Configuring logger with level: 4, filePath: undefined, additionalLogToConsole: undefined"}

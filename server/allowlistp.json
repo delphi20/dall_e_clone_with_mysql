@@ -1,0 +1,52 @@
+[
+  {
+    "host": "bi97457.central-india.privatelink.snowflakecomputing.com",
+    "port": 443,
+    "type": "SNOWFLAKE_DEPLOYMENT"
+  },
+  {
+    "host": "tbddxdl-mv90998.privatelink.snowflakecomputing.com",
+    "port": 443,
+    "type": "SNOWFLAKE_DEPLOYMENT_REGIONLESS"
+  },
+  {
+    "host": "gwlwcxsfcb1stg.blob.core.windows.net",
+    "port": 443,
+    "type": "STAGE"
+  },
+  {
+    "host": "sfc-repo.snowflakecomputing.com",
+    "port": 443,
+    "type": "SNOWSQL_REPO"
+  },
+  {
+    "host": "client-telemetry.snowflakecomputing.com",
+    "port": 443,
+    "type": "OUT_OF_BAND_TELEMETRY"
+  },
+  {
+    "host": "ocsp.bi97457.central-india.privatelink.snowflakecomputing.com",
+    "port": 80,
+    "type": "OCSP_CACHE"
+  },
+  {
+    "host": "ocsp.tbddxdl-mv90998.privatelink.snowflakecomputing.com",
+    "port": 80,
+    "type": "OCSP_CACHE_REGIONLESS"
+  },
+  {
+    "host": "api-d47e2df3.duosecurity.com",
+    "port": 443,
+    "type": "DUO_SECURITY"
+  },
+  {
+    "host": "app-tbddxdl-mv90998.privatelink.snowflakecomputing.com",
+    "port": 443,
+    "type": "SNOWSIGHT_DEPLOYMENT_REGIONLESS"
+  },
+  {
+    "host": "app.central-india.privatelink.snowflakecomputing.com",
+    "port": 443,
+    "type": "SNOWSIGHT_DEPLOYMENT"
+  }
+]
